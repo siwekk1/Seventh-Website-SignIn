@@ -1,6 +1,6 @@
 body{
     background-image: url(img/white-fox-standing-snow-daytime.jpg);
-    background-size: 90%;
+    background-size: 100%;
     font-size: 20px;
     color: #000080;
 }
@@ -27,6 +27,7 @@ input[type=password] {
     padding: 10px;
     box-sizing: border-box;
     outline: none;
+    margin-top: 10px
 }
 input[type=text]:focus,
 input[type=password]:focus
@@ -52,6 +53,7 @@ border: none;
 border-radius: 5px;
 letter-spacing: 2px;
 font-weight: 600;
+margin-top: 15px;
 }
 input[type=submit]:focus
 {
